@@ -11,3 +11,6 @@ Diferentes cores para colorir;<br>
 Apagar a tela;<br>
 Desfazer um rabisco;<br>
 Salvar o desenho no dispositivo;
+
+![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Tela-Branca/main/unnamed%20(3).webp)
+![]( https://raw.githubusercontent.com/Silva-Tech-Souza/Android-app-Tela-Branca/main/unnamed%20(4).webp)
