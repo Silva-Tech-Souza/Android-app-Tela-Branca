@@ -4,7 +4,7 @@
 
 O Tela Branca é um aplicativo para desenhar na tela do celular, esse nome de tala branca foi pensado para que esse quadro vazio se torne a sua arte com o seu desenho. Um ótimo aplicativo para passar o tempo ou se divertir com os amigos.
 
-Características:
+<h2>Características</h2>
 
 Dois diferentes pincéis um fino e outro grosso;<br>
 Diferentes cores para colorir;<br>
