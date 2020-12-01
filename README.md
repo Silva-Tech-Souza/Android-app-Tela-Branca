@@ -6,8 +6,8 @@ O Tela Branca é um aplicativo para desenhar na tela do celular, esse nome de ta
 
 Características:
 
-Dois diferentes pincéis um fino e outro grosso;
-Diferentes cores para colorir;
-Apagar a tela;
-Desfazer um rabisco;
+Dois diferentes pincéis um fino e outro grosso;<br>
+Diferentes cores para colorir;<br>
+Apagar a tela;<br>
+Desfazer um rabisco;<br>
 Salvar o desenho no dispositivo;
