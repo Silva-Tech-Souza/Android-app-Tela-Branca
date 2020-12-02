@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tela Branca</string>
+    <string name="cor7">Marrón</string>
+    <string name="pincel">Cepillo</string>
+    <string name="cores">Colores</string>
+    <string name="lim_tela">Pantalla clara</string>
+    <string name="voltar">Deshacer</string>
+    <string name="salvar">Guardar Pantalla</string>
+    <string name="cor1">Rosado</string>
+    <string name="cor2">Azul</string>
+    <string name="cor3">Verde</string>
+    <string name="cor4">Rojo</string>
+    <string name="cor5">Amarillo</string>
+    <string name="cor6">Cian</string>
+    <string name="cor8">Negro</string>
+</resources>

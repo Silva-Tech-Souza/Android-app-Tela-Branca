@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29e0a4</color>
+    <color name="colorPrimaryDark">#20b080</color>
+    <color name="colorAccent">#4ae072</color>
+
+    <color name="cororiginal">#29e0a4</color>
+    <color name="corclique">#20b080</color>
+    <color name="cordepois">#4ae072</color>
+</resources>

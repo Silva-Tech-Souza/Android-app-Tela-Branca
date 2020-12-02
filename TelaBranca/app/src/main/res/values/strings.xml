@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tela Branca</string>
+<string name="pincel">Pincel</string>
+    <string name="cores">Cores</string>
+    <string name="lim_tela">Limpar tela</string>
+    <string name="voltar">Desfazer</string>
+    <string name="salvar">Salvar Tela</string>
+    <string name="cor1">Rosa</string>
+    <string name="cor2">Azul</string>
+    <string name="cor3">Verde</string>
+    <string name="cor4">Vermelho</string>
+    <string name="cor5">Amarelo</string>
+    <string name="cor6">Ciano</string>
+    <string name="cor7">Marrom</string>
+    <string name="cor8">Preto</string>
+</resources>
